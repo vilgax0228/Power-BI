@@ -1,2 +1,6 @@
-# Power-BI
-Sobre o software de visualização de dados e Business Intelligence Power BI.
+# Learning Microsoft Power BI: Transforming Data Into Insights de *Jeremey Arnold*.
+* Como reunimos dados de diferentes fontes? Como lidamos com tabelas que são grandes demais para o Microsoft Excel? Como direcionamos grupos específicos ou subconjuntos de um grupo para análise de forma eficaz? Como visualizamos esses resultados para torná-los compreensíveis para nossa audiência?
+---
+O **Power BI** é tanto um software quanto um ecossistema maior de produtos. Quando se discute como a maioria das pessoas irá compartilhar visualmente os resultados de seu trabalho com os outros, isso é feito no contexto do *Power BI service*, uma solução de software como serviço (*SaaS*) que hospeda conjuntos de dados e relatórios do Power BI, que podem ser utilizados por outros que têm acesso.
+* **Power BI Desktop:** Uma aplicação gratuita que você instala em um computador local, que pode ser usada para conectar, transformar e visualizar dados. Este é o bloco de construção para todas as outras partes do ecossistema do Power BI.
+* **Power BI service:** Uma solução online de SaaS que permite que os usuários finais compartilhem relatórios criados no Power BI Desktop ou Power BI Report Builder com usuários de toda a organização.

@@ -32,3 +32,38 @@ Tudo no Power Query começa com a obtenção de dados de suas fontes, e o Power 
 Existem também *M* (a linguagem de programação do Power Query) e *DAX* (data analysis expressions) que são tópicos mais avançados.
 
 ### Power BI service
+O Power BI service, uma solução SaaS online, permite com que usuários compartilhem seus relatórios do Power BI Desktop com outros usuários dentro da organização.
+
+Todo mundo tem acesso ao seu próprio *workspace* pessoal de graça, mas apenas um.
+
+Para compartilhar relatórios com outros usuários você precisa criar um novo workspace e convidar eles para esse workspace.
+
+Desse jeito, o Power BI service deixa que outros usuários finais explorem relatórios que você criou para conseguir insights de seu trabalho.
+
+O Power BI service também possui diversas outras *features*, como a capacidade de criar objetos especiais conhecidos como *dataflows*.
+
+Esses dataflows podem ser usados para pegar informação no Power BI service fora de uma base de dados, enquanto permite que usuários finais tenham acesso a esses dados e combine com outros dados dentro de um modelo do Power BI Desktop.
+
+Os desenvolvedores podem gerenciar pipelines de implantação para os workspaces no Power BI service, o que permite criar e gerenciar os espaços de trabalho de desenvolvimento, teste e produção.
+
+Em resumo, o Power BI service cria um espaço compartilhado permitindo com que as pessoas vejam os mesmos insights de forma segura, enquanto convida elas a explorar elementos de dados compartilhados que podem ser organizados para servir necessidades específicas de cada usuário final (por usuário final lê-se clientes).
+
+### Power Platform
+
+---
+## Capítulo 2. Os Relatórios e as Visualizações de Dados
+Power BI Desktop é uma ferramenta robusta de visualização de dados que permite com que você pegue dados e crie insights visuais deles de formas variadas.
+
+Este capítulo traz uma análise detalhada da Interface do Usuário (UI).
+
+Nosso foco vai estar no *Report view* porque é lá que estaremos na maior parte do tempo.
+
+As duas coisas mais importantes que você precisa saber sobre a UI são as funções do *Home tab* da barra de ferramentas (*ribbon*) e o *Visualizations pane*.
+
+![its-not-a-feature-its-a-bug](https://github.com/user-attachments/assets/ed4b9397-d8bd-49b0-98e1-6d352d086758)
+Power BI por padrão abre no Report view quando você inicializa.
+
+Me parece que faz muito mais sentido não só acompanhar com o livro este capítulo por conta das descrições detalhadas e imagens como também usar o Power BI para conseguir se acostumar aos poucos com a interface, assim sendo não irei transcrever tudo para cá.
+
+---
+## Capítulo 3.

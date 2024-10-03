@@ -1,5 +1,4 @@
 # Learning Microsoft Power BI: Transforming Data Into Insights de *Jeremey Arnold*.
-Power BI tem sido um veículo para mim melhor entender vários dos mais importantes conceitos de dados, e eu sinto que essas ideias são importantes para realizar o objetivo aonde dados são usados efetivamente e todas as pessoas do século 21 conseguiriam interagir com dados de alguma forma afim de melhorar, tanto profissionalmente ou pessoalmente.
 
 Como reunimos dados de diferentes fontes? Como lidamos com tabelas que são grandes demais para o Microsoft Excel? Como direcionamos grupos específicos ou subconjuntos de um grupo para análise de forma eficaz? Como visualizamos esses resultados para torná-los compreensíveis para nossa audiência?
 

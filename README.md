@@ -4,7 +4,7 @@ Como reunimos dados de diferentes fontes? Como lidamos com tabelas que são gran
 
 ![catBI](https://github.com/user-attachments/assets/75b49b0a-1fea-4b27-81c1-f1398a639537)
 
-## Capítulo 1: Introdução ao Power BI
+## Capítulo 1. Introdução ao Power BI
 O **Power BI** é tanto um software quanto um ecossistema maior de produtos. Quando se discute como a maioria das pessoas irá compartilhar visualmente os resultados de seu trabalho com os outros, isso é feito no contexto do Power BI service, uma solução de software como serviço (*SaaS*) que hospeda conjuntos de dados e relatórios do Power BI, que podem ser utilizados por outros que têm acesso.
 
 Esse livro foca no Power BI Desktop e no Power BI service pois são esses os blocos de construção mais básicos e valiosos.
@@ -62,7 +62,6 @@ As duas coisas mais importantes que você precisa saber sobre a UI são as funç
 ![its-not-a-feature-its-a-bug](https://github.com/user-attachments/assets/ed4b9397-d8bd-49b0-98e1-6d352d086758)
 Power BI por padrão abre no Report view quando você inicializa.
 
-Me parece que faz muito mais sentido não só acompanhar com o livro este capítulo por conta das descrições detalhadas e imagens como também usar o Power BI para conseguir se acostumar aos poucos com a interface, assim sendo não irei transcrever tudo para cá.
+Me parece que faz muito mais sentido não só acompanhar com o livro este capítulo por conta das descrições detalhadas e imagens como também usar o Power BI para conseguir se acostumar aos poucos com a interface, assim sendo, não irei transcrever tudo para cá;
 
----
-## Capítulo 3.
+e o mesmo vale para todo o restante do livro.

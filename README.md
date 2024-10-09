@@ -1,8 +1,6 @@
-# Learning Microsoft Power BI: Transforming Data Into Insights de *Jeremey Arnold*.
+# Learning Microsoft Power BI: Transforming Data Into Insights
 
 Como reunimos dados de diferentes fontes? Como lidamos com tabelas que são grandes demais para o Microsoft Excel? Como direcionamos grupos específicos ou subconjuntos de um grupo para análise de forma eficaz? Como visualizamos esses resultados para torná-los compreensíveis para nossa audiência?
-
-![catBI](https://github.com/user-attachments/assets/75b49b0a-1fea-4b27-81c1-f1398a639537)
 
 ## Capítulo 1. Introdução ao Power BI
 O **Power BI** é tanto um software quanto um ecossistema maior de produtos. Quando se discute como a maioria das pessoas irá compartilhar visualmente os resultados de seu trabalho com os outros, isso é feito no contexto do Power BI service, uma solução de software como serviço (*SaaS*) que hospeda conjuntos de dados e relatórios do Power BI, que podem ser utilizados por outros que têm acesso.
